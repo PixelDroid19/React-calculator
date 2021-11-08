@@ -1,12 +1,5 @@
-import Calc from './Components/CardCustom';
+import { CalculatorUi } from './Components/Calculadora';
 
-
-function App() {
-  return (
-    <div className="App">
-        <Calc></Calc>
-    </div>
-  );
-}
+function App() {return (<CalculatorUi/>);}
 
 export default App;
