@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import { CalculatorUi } from './Components/Calculadora';
 import './Styles/index.css'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <CalculatorUi />
   </React.StrictMode>,
   document.getElementById('root')
 );
