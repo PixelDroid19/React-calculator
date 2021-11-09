@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Styles/index.css"],"names":[],"mappings":"AAAA,EACI,QAAQ,CACR,SACJ,CAEA,KACI,2EACJ","file":"main.04b45395.chunk.css","sourcesContent":["*{\r\n    margin:0;\r\n    padding:0;\r\n}\r\n\r\nhtml{ \r\n    background-image: url('../assets/img/wallpaper.png');\r\n}"]}
